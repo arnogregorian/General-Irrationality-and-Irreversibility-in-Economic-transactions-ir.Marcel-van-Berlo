@@ -12,6 +12,8 @@ This list is a bit a bullet-point script stating the structure and most importan
 - [Download the formulas for Power Point](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2010%2028%20Formulas%20for%20powerpoint%20r1.docx)
 - [Download the Power point](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2010%2028%20General%20Irreversibility%20and%20Irrationality%20in%20economic%20transactions%20r2.pptx)
 
+## [Watch the video here on Vimo](https://vimeo.com/820422584?share=copy)
+
 **Accompanying video script**
 
 ### 1 Intro
