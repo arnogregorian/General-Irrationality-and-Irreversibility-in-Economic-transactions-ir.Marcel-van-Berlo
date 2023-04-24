@@ -10,6 +10,7 @@ This is an introductory video of the (unfinished) PhD project of ir.Marcel van B
 - [Download the XSLS](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2009%2006%20Excel%20voor%20Optimality%20of%20stock%20trades%20r10a.xlsx)
 - [Download the formulas for Power Point](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2010%2028%20Formulas%20for%20powerpoint%20r1.docx)
 - [Download the Power point](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2010%2028%20General%20Irreversibility%20and%20Irrationality%20in%20economic%20transactions%20r2.pptx)
+- [Download the notes](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Dagboek%202023-27%20Berlo%20promotie%20teksten.docx)
 
 ## [&#9654; Watch the video here on Vimeo](https://vimeo.com/820422584?share=copy)
 [![Now in Android: 55](https://vumbnail.com/820422584.jpg)](https://vimeo.com/820422584?share=copy "Video")
