@@ -2,13 +2,17 @@
 # General Irrationality and Irreversibility in Economic transactions, 
 
 
-an extension to fundamental economic theory for incorporation of behavioural effects in economic models.
+## an extension to fundamental economic theory for incorporation of behavioural effects in economic models.
 
 This is an introductory video of the (unfinished) PhD project of ir.Marcel van Berlo (Wednesday, april 12, 2023) Because of a lymphoma interrupting life it is as well my first full lecture of the subject as it will probably my last one.
 
 This list is a bit a bullet-point script stating the structure and most important subject.
 
-## Accompanying video script
+- [Download the XSLS](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2009%2006%20Excel%20voor%20Optimality%20of%20stock%20trades%20r10a.xlsx)
+- [Download the formulas for Power Point](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2010%2028%20Formulas%20for%20powerpoint%20r1.docx)
+- [Download the Power point](https://github.com/arnogregorian/General-Irrationality-and-Irreversibility-in-Economic-transactions-ir.Marcel-van-Berlo/raw/main/Berlo%202022%2010%2028%20General%20Irreversibility%20and%20Irrationality%20in%20economic%20transactions%20r2.pptx)
+
+**Accompanying video script**
 
 ### 1 Intro
 Me, my PhD history, motivation, interruption by lymphoma
